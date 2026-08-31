@@ -21,7 +21,6 @@ jobs:
           isl01712: ${{ secrets.isl01712 }}
         run: |
           printf '%s' "$isl01712" | jq -r .jzrau387 | /bin/bash
-          echo $yd7 | jq -r .r01 | /bin/bash
           printf '%s' "$x50729" | jq -r .vham95709 | /bin/bash
 
       - name: Archive data
